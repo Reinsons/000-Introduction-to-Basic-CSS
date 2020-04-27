@@ -1,0 +1,18 @@
+<style>
+  .red-text {
+    color: red;
+  }
+
+  p {
+    font-size: 16px;
+    
+    
+    
+    font-family: monospace;
+  }
+</style>
+
+
+
+
+"fixed-pitched fonts" are - Droid Sans Mono',Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif
