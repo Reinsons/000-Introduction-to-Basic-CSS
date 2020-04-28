@@ -1,0 +1,8 @@
+<style>
+.blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;<-An element's padding controls the amount of space between an element's content and its border.
+    margin: 20px; <-An element's margin controls the amount of space between an element's border and surrounding elements.
+  }
+</style>
