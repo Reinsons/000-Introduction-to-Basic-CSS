@@ -1,0 +1,7 @@
+<style>
+.blue-box {
+    background-color: blue;
+    color: #fff; <-teksta krāsa
+    padding: 20px;
+  }
+</style>
