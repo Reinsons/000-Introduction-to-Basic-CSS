@@ -2,6 +2,6 @@
 .blue-box {
     background-color: blue;
     color: #fff; <-teksta krāsa
-    padding: 20px;
+    padding: 20px; <-An element's padding controls the amount of space between an element's content and its border.
   }
 </style>
