@@ -1,0 +1,20 @@
+<style>
+  .penguin {
+  
+  
+    --penguin-skin: gray;
+    
+    
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+  }
+
+/* Change code below this line */
+
+    background: var(--penguin-skin);
+    
+/* Change code above this line */
